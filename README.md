@@ -30,3 +30,7 @@ FuturisticQuiz doesn’t just ask pre-written trivia. It dynamically creates new
 
 Note:
 This project is intended for educational and personal use. It’s a great introduction to combining GUI development, API usage, and multimedia in Python.
+
+<img width="1067" alt="Στιγμιότυπο οθόνης 2025-06-02 190944" src="https://github.com/user-attachments/assets/4e3c7f5e-f36d-4a56-8dcd-44c7952a845b" />
+
+<img width="998" alt="Στιγμιότυπο οθόνης 2025-06-02 190901" src="https://github.com/user-attachments/assets/c992ac36-3cf1-481c-a08e-ed0fa55e0c2c" />
